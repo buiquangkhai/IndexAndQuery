@@ -1,0 +1,21 @@
+Total number of words: 59
+gov 0.22435
+page 0.04817
+status 1.34612
+report 0.37299
+home 0.05015
+radar 0.38752
+nasa 0.23682
+jpl 0.30448
+imaging 0.44871
+sar 2.02986
+sir 1.77613
+shuttle 1.59852
+october 0.96514
+updated 0.06004
+bruce 0.31576
+chapman 0.37067
+mission 0.53284
+september 0.21314
+oct 1.70508
+srl 3.87519

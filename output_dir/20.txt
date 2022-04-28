@@ -1,0 +1,20 @@
+Total number of words: 28
+page 0.10149
+front 1.02653
+april 0.33267
+home 0.10567
+workspace 1.12277
+robot 1.38187
+return 0.20889
+simulations 2.39524
+copyright 0.09405
+robotrak 1.79643
+registered 0.71857
+trademarks 1.63312
+revision 1.28316
+abb 3.99206
+irb 8.98214
+manipulating 17.96429
+pedastal 35.92857
+glue 5.9881
+dispenser 35.92857

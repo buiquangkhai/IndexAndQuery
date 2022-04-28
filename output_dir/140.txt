@@ -1,0 +1,23 @@
+Total number of words: 30
+official 0.38106
+frequently 0.55889
+questions 0.20447
+national 0.12799
+site 0.27944
+view 0.21224
+learn 1.24198
+research 0.12607
+institute 0.32876
+community 0.17837
+home 0.29588
+title 0.13099
+purpose 0.27486
+network 0.39921
+feedback 1.04792
+sheet 6.2875
+web 0.42991
+christian 0.49314
+education 0.11808
+history 0.1215
+nheri 33.53333
+ib 3.35333

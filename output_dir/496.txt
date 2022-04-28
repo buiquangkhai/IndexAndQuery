@@ -1,0 +1,7 @@
+Total number of words: 6
+operations 1.64379
+gas 1.99603
+natural 1.55247
+oil 1.99603
+indonesia 4.65741
+crude 41.91667

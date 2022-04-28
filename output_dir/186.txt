@@ -1,0 +1,10 @@
+Total number of words: 12
+faq 5.9881
+austin 3.49306
+tx 5.9881
+dorm 5.9881
+square 2.46569
+feet 2.79444
+info 0.80609
+fax 0.85544
+barrone 83.83333

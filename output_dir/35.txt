@@ -1,0 +1,8 @@
+Total number of words: 9
+view 0.70745
+security 0.73538
+levels 1.18913
+shot 4.65741
+screen 4.65741
+netshade 55.88889
+windows 4.29915

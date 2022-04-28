@@ -1,0 +1,13 @@
+Total number of words: 23
+death 0.65282
+gov 0.57551
+images 2.34317
+nasa 0.60749
+jpl 0.78106
+cm 7.28986
+airsar 10.93478
+band 3.64493
+updated 0.15401
+bruce 0.80998
+chapman 0.95085
+valley 2.18696

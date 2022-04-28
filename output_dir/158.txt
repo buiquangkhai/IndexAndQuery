@@ -1,0 +1,10 @@
+Total number of words: 10
+law 0.2779
+red 1.52424
+main 0.73971
+poems 5.58889
+horse 12.575
+button 0.44911
+william 1.28974
+puette 100.6
+squeeze 25.15

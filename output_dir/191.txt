@@ -1,0 +1,26 @@
+Total number of words: 44
+press 0.13773
+news 0.15878
+print 1.63312
+manufacturers 0.87937
+pocket 11.43182
+price 0.08166
+hot 0.95265
+com 0.31065
+usa 0.20785
+natural 0.2117
+available 0.13293
+stores 1.2702
+articles 0.30084
+search 0.34642
+shipping 0.81656
+color 1.55888
+finest 3.81061
+includes 0.11099
+shirts 11.43182
+cigar 11.43182
+accessories 1.63312
+airlift 5.71591
+clubs 1.9053
+cotton 0.95265
+xl 5.71591

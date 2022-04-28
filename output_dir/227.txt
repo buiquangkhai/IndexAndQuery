@@ -1,0 +1,19 @@
+Total number of words: 28
+page 0.10149
+publications 0.28515
+association 0.2945
+design 0.27219
+library 2.11345
+table 1.05672
+contents 0.54437
+vision 0.92125
+bay 1.49702
+family 0.23637
+building 0.58899
+misery 3.26623
+ladies 8.98214
+yesterday 2.99405
+anyway 2.99405
+preview 8.98214
+sneak 8.98214
+bement 26.94643

@@ -1,0 +1,20 @@
+Total number of words: 23
+de 0.32399
+la 0.22316
+en 0.25137
+del 0.45562
+chile 1.45797
+maxus 2.7337
+otras 1.68227
+ypf 0.59107
+región 2.18696
+también 0.84114
+está 1.15103
+participaciones 7.28986
+realizando 10.93478
+exploración 1.68227
+perú 5.46739
+estadounidense 7.28986
+golfo 2.7337
+méxico 10.93478
+argelia 10.93478

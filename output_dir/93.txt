@@ -1,0 +1,18 @@
+Total number of words: 26
+page 0.1093
+april 0.35826
+home 0.1138
+workspace 3.6274
+robot 1.48817
+return 0.22496
+simulations 2.57949
+copyright 0.10129
+robotrak 1.93462
+registered 0.77385
+trademarks 1.75874
+revision 1.38187
+germany 0.80609
+stand 1.54769
+exhibition 12.89744
+frankfurt 4.83654
+eurobot 38.69231

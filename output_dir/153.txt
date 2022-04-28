@@ -1,0 +1,6 @@
+Total number of words: 8
+size 2.3287
+index 0.8273
+aw 41.91667
+accesswatch 125.75
+tar 31.4375

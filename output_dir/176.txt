@@ -1,0 +1,26 @@
+Total number of words: 107
+court 0.07123
+price 0.13431
+home 0.11061
+philip 1.88037
+natural 1.04465
+single 0.40878
+length 1.34312
+box 0.55305
+choice 0.45863
+ring 3.13396
+del 0.09794
+premium 0.94019
+tin 2.35047
+cigar 8.46168
+cigars 9.40187
+baron 8.46168
+wrapper 18.80374
+claro 28.20561
+hampton 1.56698
+petit 14.1028
+corona 2.35047
+prince 1.17523
+maduro 9.40187
+churchill 0.94019
+rey 2.35047

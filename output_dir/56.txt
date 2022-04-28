@@ -1,0 +1,25 @@
+Total number of words: 30
+death 0.25025
+gov 0.44123
+page 0.09473
+data 0.19053
+images 1.19762
+home 0.09863
+image 0.30485
+space 0.31049
+world 0.11563
+radar 2.28636
+nasa 0.46574
+jpl 0.59881
+imaging 0.88246
+sar 0.79841
+sir 2.79444
+sample 1.67667
+sites 0.55889
+shuttle 1.04792
+updated 0.11808
+bruce 0.62099
+chapman 0.72899
+flew 2.09583
+valley 0.83833
+acquired 0.79841

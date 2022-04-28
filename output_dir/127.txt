@@ -1,0 +1,17 @@
+Total number of words: 25
+free 0.17649
+special 1.01873
+buy 1.18353
+common 0.3469
+home 0.11835
+value 0.30954
+sense 0.55889
+monthly 2.36706
+offer 0.55889
+call 0.31438
+worth 1.006
+month 1.03179
+customers 1.54769
+cigar 8.048
+cigars 6.70667
+baron 12.072

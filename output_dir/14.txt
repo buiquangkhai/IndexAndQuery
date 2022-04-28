@@ -1,0 +1,22 @@
+Total number of words: 31
+dr 0.31815
+school 0.24585
+mother 0.57949
+james 0.95446
+com 0.08818
+mi 0.28975
+prodigy 2.02823
+grand 2.86338
+htm 1.80287
+st 0.27043
+fraternity 4.05645
+sfo 1.62258
+minister 0.36877
+meet 0.29501
+parish 4.05645
+lake 0.60096
+rapids 8.1129
+michigan 0.33804
+nw 2.95015
+wednesday 3.24516
+bridge 1.08172

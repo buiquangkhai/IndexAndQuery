@@ -1,0 +1,12 @@
+Total number of words: 14
+support 0.34218
+accessed 5.9881
+send 0.25848
+map 3.59286
+file 1.23892
+client 2.66138
+doesn 2.56633
+imagemap 35.92857
+errorimagemap 17.96429
+erroryour 17.96429
+coordinates 17.96429

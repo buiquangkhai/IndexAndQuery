@@ -1,0 +1,7 @@
+Total number of words: 6
+questions 1.02236
+comments 0.65495
+revision 5.9881
+education 0.59038
+college 2.46569
+continuing 2.8908

@@ -1,0 +1,26 @@
+Total number of words: 34
+allow 0.34405
+don 0.33623
+sea 0.65752
+website 0.77864
+communications 0.1072
+access 0.53797
+association 0.24253
+alert 1.23284
+obtain 0.51014
+designed 0.21756
+display 1.47941
+click 0.12537
+homepage 1.47941
+netscape 2.46569
+read 0.44831
+portions 2.95882
+document 0.49314
+utilize 1.47941
+message 0.92463
+capable 1.47941
+education 0.10418
+frame 4.93137
+frames 5.91765
+seeing 1.34492
+browser 8.87647

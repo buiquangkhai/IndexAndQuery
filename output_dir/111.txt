@@ -1,0 +1,3 @@
+Total number of words: 2
+internet 5.46739
+powerpoint 125.75

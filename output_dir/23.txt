@@ -1,0 +1,23 @@
+Total number of words: 29
+office 0.21413
+richard 0.66711
+com 0.09427
+aol 1.33422
+mi 0.61946
+htm 1.9272
+st 0.57816
+fraternity 4.33621
+sfo 1.73448
+minister 0.3942
+meet 0.31536
+parish 4.33621
+dennis 3.46897
+th 0.21955
+wednesday 3.46897
+mile 2.8908
+royal 3.85441
+oak 3.46897
+francis 2.47783
+schultz 5.78161
+troy 5.78161
+stephenson 8.67241

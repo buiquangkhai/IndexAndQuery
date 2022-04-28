@@ -1,0 +1,22 @@
+Total number of words: 529
+risks 3.87947
+voice 0.02641
+com 0.02067
+directory 0.06339
+dec 0.03803
+digest 0.03657
+text 2.46246
+fax 0.01941
+parent 0.03279
+discussion 0.0097
+plain 8.73054
+archives 0.07924
+jul 8.00299
+bt 0.13584
+ncs 0.23771
+txt 12.00449
+infowar 0.31695
+namelast 0.13584
+modifiedsizedescription 0.13584
+interpact 0.07924
+webwarrior 0.07924

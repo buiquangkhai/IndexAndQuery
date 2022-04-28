@@ -1,0 +1,11 @@
+Total number of words: 18
+view 0.35373
+internet 1.82246
+david 0.75526
+version 0.68157
+graphic 2.5404
+elizabeth 4.65741
+powerpoint 41.91667
+rod 13.97222
+mitchell 1.21498
+slide 55.88889

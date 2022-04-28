@@ -1,0 +1,23 @@
+Total number of words: 32
+page 0.08881
+publications 0.2495
+time 0.18825
+plan 0.21533
+design 0.23816
+online 1.65461
+bay 0.65495
+please 0.22781
+head 0.32747
+download 1.57187
+edible 7.85938
+santa 1.74653
+load 1.57187
+faster 1.42898
+misery 1.42898
+try 0.56138
+visit 0.47633
+waiting 1.74653
+toys 15.71875
+toy 15.71875
+bag 7.85938
+etch 31.4375

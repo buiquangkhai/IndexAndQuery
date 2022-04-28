@@ -1,0 +1,25 @@
+Total number of words: 33
+set 0.16215
+office 0.18818
+gov 0.40112
+page 0.08612
+information 0.08239
+data 0.17321
+ii 0.42936
+existing 0.46189
+recommended 1.01616
+home 0.08966
+contact 0.18818
+return 0.17724
+mi 0.27219
+ozone 7.62121
+llnl 2.5404
+october 0.28759
+update 0.80223
+project 0.33136
+pcmdi 2.5404
+disclaimers 2.17749
+intercomparison 3.04848
+amip 19.05303
+ucrl 3.81061
+recommendation 10.16162

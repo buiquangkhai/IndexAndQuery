@@ -1,0 +1,24 @@
+Total number of words: 35
+street 0.29329
+academy 1.30649
+mail 0.20241
+net 0.3685
+mi 0.51327
+htm 1.59683
+battle 1.95974
+creek 6.15918
+st 0.71857
+philip 5.74857
+neri 28.74286
+fraternity 3.59286
+gray 0.84538
+sfo 1.43714
+minister 0.32662
+iserv 2.39524
+meet 0.2613
+sunday 3.59286
+parish 3.59286
+prayer 3.59286
+capital 0.2613
+ave 1.79643
+ne 0.30578

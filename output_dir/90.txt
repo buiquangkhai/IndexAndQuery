@@ -1,0 +1,13 @@
+Total number of words: 21
+office 0.59142
+director 1.14059
+dr 0.46965
+ms 4.79048
+staff 0.85544
+assistant 1.84249
+honors 4.35498
+cohen 1.49702
+ira 2.66138
+sara 3.99206
+kerry 4.79048
+susan 5.9881

@@ -1,0 +1,23 @@
+Total number of words: 409
+risks 3.83707
+voice 0.03416
+law 0.00679
+com 0.02674
+directory 0.08199
+dec 0.04919
+digest 0.0473
+text 2.42812
+fax 0.0251
+parent 0.04241
+discussion 0.01255
+plain 8.6088
+archives 0.10249
+bowen 0.12298
+afp 0.06473
+jul 7.8914
+txt 11.8371
+infowar 0.40994
+namelast 0.17569
+modifiedsizedescription 0.17569
+interpact 0.10249
+webwarrior 0.10249

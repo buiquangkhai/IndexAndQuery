@@ -1,0 +1,22 @@
+Total number of words: 36
+press 0.33668
+economic 0.15525
+june 0.54793
+industry 0.16634
+environment 0.21496
+july 0.6351
+return 0.16247
+uk 1.47076
+regional 1.59683
+energy 0.2495
+october 0.26363
+european 0.23287
+market 0.42991
+september 0.34931
+british 0.35826
+housing 0.99802
+economy 0.25874
+construction 0.38812
+prospects 2.25358
+ce 1.74653
+releases 3.10494

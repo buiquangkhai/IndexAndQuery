@@ -1,0 +1,24 @@
+Total number of words: 35
+site 0.47905
+union 0.42269
+owned 0.75639
+insurance 0.3685
+services 0.13953
+columbia 0.79841
+largest 0.42269
+netscape 1.19762
+canada 0.77683
+assets 0.79841
+updated 0.10121
+copyright 0.07524
+experience 0.21775
+november 0.34218
+british 0.3685
+credit 0.70105
+wholly 2.87429
+savings 1.72457
+viewed 0.68435
+metro 3.19365
+surrey 4.10612
+avenue 0.75639
+subsidiary 2.87429

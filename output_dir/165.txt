@@ -1,0 +1,26 @@
+Total number of words: 49
+purchased 1.14059
+tradition 0.33114
+home 0.06038
+store 2.56633
+shown 0.35398
+feet 1.36871
+concept 0.19369
+hand 0.27744
+desktop 1.71088
+add 0.4666
+indian 2.05306
+lover 1.46647
+gifts 1.71088
+rich 0.85544
+treasure 5.13265
+character 0.3802
+indians 2.28118
+painted 5.13265
+cigar 18.47755
+accessories 1.46647
+alive 1.02653
+tall 10.26531
+baron 12.31837
+dream 0.73324
+centuries 0.78964
